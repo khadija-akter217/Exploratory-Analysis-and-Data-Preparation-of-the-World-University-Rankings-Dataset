@@ -8,11 +8,19 @@ The information employed in this project comes from cwur's publicly available re
 overview of the world's universities for several years. The information includes variables like:
 
 world rank– The university's ranking in the world.
+
 institution – The institution's name.
+
 country – The institution's country.
+
 year– The year of ranking.
+
 score– A composite variable calculated from CWUR's ranking formula.
+
 quality_of_education – A measure of the intellectual quality through alumni success.
+
 quality_of_faculty– A measure through faculty research output and awards.
+
 publications– Number of highly cited papers published.
+
 patents– Number of international patents filed by the institution.
